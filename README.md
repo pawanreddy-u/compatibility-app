@@ -14,6 +14,8 @@ A compatibility-checking web application built using Streamlit. This app analyze
 
    ```
    pip install -r requirements.txt
+   ```
+   Make the required changes to load OpenAPI keys
   
 3. **Run the application**:
 
