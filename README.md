@@ -17,9 +17,9 @@ A compatibility-checking web application built using Streamlit. This app analyze
   
 3. **Run the application**:
 
-  ```
+   ```
    streamlit app.py
-```
+   ```
 
 4. **Access the web page**:
 After running the app, open your browser and go to http://localhost:8501 to access the app
