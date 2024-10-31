@@ -7,7 +7,7 @@ A compatibility-checking web application built using Streamlit. This app analyze
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/***/compatibility-app.git
+   git clone https://github.com/pawanreddy-u/compatibility-app.git
    cd compatibility-app
 
 2. **Install the required libraries**:
